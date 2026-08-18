@@ -1,0 +1,3 @@
+- [x] Update `targetSdk` to 37 in `app/build.gradle.kts`
+- [x] Remove duplicate activities in `AndroidManifest.xml`
+- [x] Verify build with `./gradlew assembleDebug`
